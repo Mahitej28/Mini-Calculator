@@ -1,6 +1,6 @@
 # Basic Calculator
 
-## 📖 What the project is about?
+## 📖 Project Description
 
 Basic Calculator is a project designed to perform various arithmetic operations on numbers, it is a modest imitation of a calculator.
 <br><br>🔗<b>Project Link:</b> https://mini-calculator-lake.vercel.app/
@@ -15,10 +15,10 @@ Basic Calculator is a project designed to perform various arithmetic operations 
 </ul>
 
 
-## 👀 Screenshots
-
-<img src ="/assets/1.png">
-
+## 👀 Screenshot
+<div align="center">
+<img src ="/assests/1.png" width="500px">
+</div>
 
 ## ✍ Author
 
