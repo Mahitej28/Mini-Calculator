@@ -3,7 +3,7 @@
 ## 📖 What the project is about?
 
 Basic Calculator is a project designed to perform various arithmetic operations on numbers, it is a modest imitation of a calculator.
-<br><br>🔗<b>Project Link:</b> 
+<br><br>🔗<b>Project Link:</b> https://mini-calculator-lake.vercel.app/
 
 
 ## 📓 Tools used
@@ -15,8 +15,6 @@ Basic Calculator is a project designed to perform various arithmetic operations 
 </ul>
 
 
-<br>
-
 ## 👀 Screenshots
 
 <img src ="/assets/1.png">
@@ -26,13 +24,13 @@ Basic Calculator is a project designed to perform various arithmetic operations 
 
 - [Mahima Churi](https://github.com/Mahitej28)
 
-<br>
+
 
 ## 📌 Features / Contributions
  - Any contributions you make are *greatly appreciated*
  - Would be glad to hear about *new features* to add in the website
 
-<br>
+
 
 
 ## 🛡 License
